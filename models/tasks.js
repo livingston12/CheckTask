@@ -1,4 +1,4 @@
-const { restoreDefaultPrompts } = require("inquirer");
+require("inquirer");
 const Task = require("./task");
 
 class Tasks {
@@ -41,7 +41,7 @@ class Tasks {
         this.listArr.forEach((task, i) => {
            const index = `${i + 1}`.green;
            const {desc, completedIn} = task;
-           var status = completedIn ? 'Completada'.green : 'Pendiente'.red;
+           var status = completedIn ? 'Completed'.green : 'Pending'.red;
            var message = `${index} ${desc} :: ${status}`;
            console.log(message);
         });
@@ -60,7 +60,7 @@ class Tasks {
         data.forEach( task => {
             
             const {desc, completedIn} = task;
-            var status = completedIn ? completedIn.green : 'Pendiente'.red;
+            var status = completedIn ? completedIn.green : 'Pending'.red;
             var message = `${(index + '.').green} ${desc} :: ${status}`;
             console.log(message);
             index += 1;
