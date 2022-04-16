@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="checktask" />
+  <img src="https://github.com/livingston12/livingston12.github.io/blob/master/asset/checkTask.gif" alt="checktask" />
 
   &#xa0;
 
@@ -40,7 +40,7 @@
 
 ## :dart: About ##
 
-This project is a console aplication and you can list your tasks to do and mark completed or pending task. 
+This project is a interactive console aplication and you can list your tasks to do and mark completed or pending task. 
 
 ## :sparkles: Features ##
 
