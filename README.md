@@ -1,29 +1,27 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="ListTask" />
+  <img src="./.github/app.gif" alt="checktask" />
 
   &#xa0;
 
-  <!-- <a href="https://listtask.netlify.app">Demo</a> -->
+  <!-- <a href="https://checktask.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">ListTask</h1>
+<h1 align="center">CheckTask</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/livingston12/listtask?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/livingston12/checktask?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/livingston12/listtask?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/livingston12/checktask?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/livingston12/listtask?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/livingston12/checktask?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/livingston12/listtask?color=56BEB8">
-
-  <img alt="Github stars" src="https://img.shields.io/github/stars/livingston12/listtask?color=56BEB8" /> 
+  <img alt="License" src="https://img.shields.io/github/license/livingston12/checktask?color=56BEB8">
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  ListTask 🚀 Under construction...  🚧
+	🚧  checktask 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -42,7 +40,7 @@
 
 ## :dart: About ##
 
-This project is to list your tasks to do and mark completed or pending. 
+This project is a console aplication and you can list your tasks to do and mark completed or pending task. 
 
 ## :sparkles: Features ##
 
@@ -64,10 +62,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/livingston12/listtask
+$ git clone https://github.com/livingston12/checktask
 
 # Access
-$ cd listtask
+$ cd checktask
 
 # Install dependencies
 $ yarn
